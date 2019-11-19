@@ -1,7 +1,7 @@
 # MARBLE WARS
 
 ## Auteur
-DESNOUST Nicolas
+DESNOUST Nicolas  
 nicolas.desnoust@etu.univ-amu.fr
 
 ## Pour lancer le jeu
